@@ -1,0 +1,23 @@
+{
+  "skill_name": "scrutinize-my-idea",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "ok so idea: an AI assistant for small instagram sellers in india. it auto-replies to DMs about price/size/availability, tracks orders from the chat, and drafts post captions. pricing maybe 299/month. tear it apart",
+      "expected_output": "Full panel incl. Platform/Ecosystem Partner seat (Meta/Instagram API + ToS), Frontier-Lab & Incumbent flags Meta's own AI features, Unit Economist does INR cost-to-serve math, DPDP considerations, verdict + 14-day experiments with pre-registered thresholds.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "I'm thinking of building an agent that reads a company's Airflow DAGs and Databricks job logs, figures out why a pipeline failed, and opens a PR with the fix automatically. Target is mid-size data teams. Would investors fund this? Be brutal.",
+      "expected_output": "Agentic classification; Architect weighs compounding error and eval set; Trust & Safety flags excessive agency and write access; Data Strategist and Domain Expert seats; Incumbent strategist considers Databricks/Astronomer/GitHub Copilot; investor venture-scale view; verdict.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "AI health app that tells people what's wrong based on their symptoms",
+      "expected_output": "Pitch is too vague and high-risk regulated: either asks up to 4 sharp questions first, or critiques with explicit assumptions; Trust, Safety & Legal and Domain Expert (clinician) weighted heavily; Ethics seat added.",
+      "files": []
+    }
+  ]
+}
